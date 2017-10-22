@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  height: 100%;
+  background: white;
+}
+
+.App-header {
+  height: 60px;
+  padding: 20px;
+  color: white;
+  background-color: black
+}
+
+.App-footer {
+  height: 100px;
+  padding: 20px;
+  color: white;
+  background-color: black
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.game {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.gameboard {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
