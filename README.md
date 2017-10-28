@@ -3,6 +3,10 @@
 Game of Life is a simple cellular automata with cells in two
 possible states (dead or alive) placed on an infinite 2D board.
 
+#### Demo ####
+
+Demo is available [here](https://maciejslawik.github.io/game_of_life-reactjs/)
+
 #### Implementation ####
 
 The automata was created in JavaScript using ReactJS.
